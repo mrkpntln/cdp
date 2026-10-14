@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "Carenderia De Pantaleon POS",
+  "short_name": "CDP POS",
+  "description": "Carenderia De Pantaleon Point of Sale",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f6f4",
+  "theme_color": "#244b38",
+  "categories": ["business", "productivity"]
+}
